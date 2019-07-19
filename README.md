@@ -7,7 +7,7 @@
 <script>
 async function init() {
 
-//----  Input -------------------
+
 const data = await d3.csv(
    'https://flunky.github.io/cars2017.csv');
 
